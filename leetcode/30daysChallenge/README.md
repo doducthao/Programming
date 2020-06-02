@@ -11,7 +11,7 @@
 <h3>Table of Contents<h3>
   
   - <a href = "./week1">Week1 </a> (completed)
-    - <a href = "./week1/SingleNumber.py">1 - Single Number</a> - [x]
+    - [x] Single Number<a href = "./week1/SingleNumber.py">1 - Single Number</a>
     - <a href = "./week1/HappyNumber.py">2 - Happy Number</a>
     - <a href = "./week1/MaximumSubarray.py">3 - Maximum Subarray</a>
     - <a href = "./week1/MoveZeroes.py">4 - Move Zeroes</a>
