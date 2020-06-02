@@ -6,3 +6,10 @@ style = "width:300px; height:300px;"/>
 <h2>Learn by leetcode</h2>
 
   <p>Website: <a href = "https://leetcode.com">leetcode.com</a></p>
+  
+  <p>Repo: <a href = "./leetcode">leetcode</a>. It inludes</p>
+    - [30-Days-Challenge]("./leetcode/30daysChallenge/")
+    -
+    -
+    -
+  
