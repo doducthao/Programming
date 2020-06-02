@@ -1,6 +1,7 @@
 <h1>Let's go</h1>
+npm i @bit/myliang.fish-ui.button
 
-[![leetcode](https://github.com/doducthao/Learn-Programming---Python/tree/master/leetcode)
+[![leetcode](https://github.com/doducthao/Learn-Programming---Python/tree/master/leetcode#leetcode)
 
 ![](https://jitpack.io/v/AppIntro/AppIntro.svg)
  
