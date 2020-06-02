@@ -9,7 +9,7 @@ style = "width:300px; height:300px;"/>
   
   <p>Repo: <a href = "./leetcode">leetcode</a>. It inludes</p>
   
-    - [30-Days-Challenge]("./leetcode/30daysChallenge/")
+    - [30-Days-Challenge](./leetcode/30daysChallenge/)
     -
     -
     -
