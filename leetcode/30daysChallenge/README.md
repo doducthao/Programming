@@ -10,8 +10,8 @@
 
 <h3>Table of Contents<h3>
   
-  - [x] Week 1 <a href = "./week1">Week1 </a>
-    - <a href = "./week1/SingleNumber.py">1 - Single Number</a>
+  - [x] <a href = "./week1">Week1 </a>
+    1. <a href = "./week1/SingleNumber.py">Single Number</a>
     - <a href = "./week1/HappyNumber.py">2 - HappyNumber</a>
     - <a href = "./week1/MaximumSubarray.py">3 - Maximum Subarray</a>
     - <a href = "./week1/MoveZeroes.py">4 - Move Zeroes</a>
@@ -28,7 +28,7 @@
     - <a href = "./week2/ContiguousArray.py">6 - Contiguous Array</a>
     - <a href = "./week2/PerformStringShifts.py">7 - Perform String Shifts</a>
     
-  - [] <a href = "./week3">Week3 </a>
+  - [ ] <a href = "./week3">Week3 </a>
     - <a href = "./week3/ProductofArrayExceptSelf.py">1 - Product of Array Except Self</a>
     - <a href = "./week3/ValidParenthesisString.py">2 - Valid Parenthesis String</a>
     - <a href = "./week3/NumberofIslands.py">3 - Number of Islands</a>
