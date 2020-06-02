@@ -7,6 +7,7 @@ style = "width:300px; height:300px;"/>
 
   <p>Website: <a href = "https://leetcode.com">leetcode.com</a></p>
   
-  <p>Repo: <a href = "./leetcode">leetcode</a></p>. It includes
+  <p>Repo: <a href = "./leetcode">leetcode</a></p>.
     - [30-Days-Challenge](./leetcode/30daysChallenge/)
+    <a href = "./leetcode/30daysChallenge/">30-Days-Challenge</a>
   
