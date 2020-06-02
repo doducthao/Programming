@@ -11,9 +11,9 @@
 <h3>Table of Contents<h3>
   
   - <a href = "./week1">Week1 </a> (completed)
-    - [x] Single Number <a href = "./week1/SingleNumber.py"></a>
-    - <a href = "./week1/HappyNumber.py">2 - Happy Number</a>
-    - <a href = "./week1/MaximumSubarray.py">3 - Maximum Subarray</a>
+    - [x] Single Number <a href = "./week1/SingleNumber.py">at here</a>
+    - [x] Happy Number <a href = "./week1/HappyNumber.py">at here</a>
+    - [x] Maximum Subarray<a href = "./week1/MaximumSubarray.py">at here</a>
     - <a href = "./week1/MoveZeroes.py">4 - Move Zeroes</a>
     - <a href = "./week1/BestTimeToBuy.py">5 - Best Time To Buy and Sell</a>
     - <a href = "./week1/GroupAnagram.py">6 - Group Anagram</a>
